@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:\\Program Files\\Python37\\python.exe"
+    "[markdown]": {
+      // 快速补全
+      "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+      },
+    }
+}
+
